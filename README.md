@@ -44,7 +44,8 @@ Ensure you have the following installed:
    - **Chain ID**: `421614`
    - **Currency Symbol**: ETH
    - **Block Explorer URL**: `https://sepolia.arbiscan.io`
-4. Obtain test ETH from a Sepolia Faucet.
+4. Obtain Sepolia ETH from: https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+5. After receiving the Sepolia ETH, convert them to Arbitrum Sepolia on this website: https://bridge.arbitrum.io/?sourceChain=sepolia&destinationChain=arbitrum-sepolia&tab=bridge
 
 ### b. Local Project Setup
 
